@@ -1,0 +1,6 @@
+# Testes locais
+tests/
+
+# Cache e bytecode do Python
+__pycache__/
+*.py[cod]
